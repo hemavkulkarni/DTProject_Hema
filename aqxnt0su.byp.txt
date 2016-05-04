@@ -1,0 +1,46 @@
+﻿
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/.jsdtscope
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   .settings/org.eclipse.m2e.core.prefs
+#	new file:   .settings/org.eclipse.wst.common.component
+#	new file:   .settings/org.eclipse.wst.common.project.facet.core.xml
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.container
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.name
+#	new file:   .settings/org.eclipse.wst.validation.prefs
+#	new file:   pom.xml
+#	new file:   src/main/webapp/About.html
+#	new file:   src/main/webapp/BootstrapDemo.html
+#	new file:   src/main/webapp/BootstrapFiles/bootstrap.min.css
+#	new file:   src/main/webapp/BootstrapFiles/bootstrap.min.js
+#	new file:   src/main/webapp/BootstrapFiles/jquery.min.js
+#	new file:   src/main/webapp/HomePage.jsp
+#	new file:   src/main/webapp/Images/1.jpg
+#	new file:   src/main/webapp/Images/2.jpg
+#	new file:   src/main/webapp/Images/3.jpg
+#	new file:   src/main/webapp/Images/4.jpg
+#	new file:   src/main/webapp/Images/5.jpg
+#	new file:   src/main/webapp/Images/Logo.jpg
+#	new file:   src/main/webapp/Login.html
+#	new file:   src/main/webapp/Navbar1.css
+#	new file:   src/main/webapp/Reg.html
+#	new file:   src/main/webapp/WEB-INF/web.xml
+#	new file:   src/main/webapp/index.jsp
+#	new file:   target/MavenTutorialHema.war
+#	new file:   target/MavenTutorialHema/WEB-INF/web.xml
+#	new file:   target/MavenTutorialHema/index.jsp
+#	new file:   target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+#	new file:   target/m2e-wtp/web-resources/META-INF/maven/com.musichub/MavenTutorialHema/pom.properties
+#	new file:   target/m2e-wtp/web-resources/META-INF/maven/com.musichub/MavenTutorialHema/pom.xml
+#	new file:   target/maven-archiver/pom.properties
+#
+
