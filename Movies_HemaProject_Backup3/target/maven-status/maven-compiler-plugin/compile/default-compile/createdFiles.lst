@@ -1,0 +1,7 @@
+com\controller\MoviesRecordController.class
+com\Model\MovieDAOImpl.class
+com\controller\MovieController.class
+com\Model\MovieService.class
+com\Model\MoviesDAO.class
+com\Model\MovieServiceImpl.class
+com\Model\Movies.class
