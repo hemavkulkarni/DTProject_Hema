@@ -1,0 +1,16 @@
+com\controller\UserServiceImpl.class
+com\controller\MovieController.class
+com\Model\MoviesBean.class
+com\controller\UserServiceImpll.class
+com\controller\UserdaoImpl.class
+com\Model\MovieService.class
+com\Model\MovieServiceImpl.class
+com\Model\UserService.class
+com\Model\Movies.class
+com\controller\LoginController.class
+com\Model\User_Authorization.class
+com\Model\MovieDAOImpl.class
+com\Model\Movie.class
+com\Model\UserDao.class
+com\Model\User.class
+com\Model\MoviesDAO.class

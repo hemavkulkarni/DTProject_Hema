@@ -1,0 +1,6 @@
+var "Products"=[
+  {"ProductID":"101","ProductName":"JBL AC25 W 2-WAY LOUDSPEAKER","Quantity":"10","Price":"Rs. 31,394.00"},
+{"ProductID":"102","ProductName":"Krown Professional 8 Channel Stereo Mixing Console With Echo","Quantity":"20","Price":"Rs. 2,900.00"},
+  {"ProductID":"103","ProductName":"Krown Professional 8 Channel Stereo Mixing Console With Echo","Quantity":"10","Price":"Rs. 2,900.00"},
+    {"ProductID":"101","ProductName":"VOX AC4C1 1X10 4-WATT TUBE COMBO AMPLIFIER","Quantity":"10","Price":"Rs. 25,775.00"}
+]
